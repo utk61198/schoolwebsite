@@ -53,8 +53,8 @@ html {
 }
 
 .row2 {
-  margin: 30px 20%;
-  width: 60%;
+  /* margin: 30px 20%; */
+  width: 100%;
 }
 .row2:after {
   content: "";
